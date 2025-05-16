@@ -13,5 +13,6 @@ namespace Bai1
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+     
     }
 }
