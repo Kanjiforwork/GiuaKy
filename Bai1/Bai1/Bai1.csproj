@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0-windows\dulieu.txt" />
+  </ItemGroup>
+
 </Project>

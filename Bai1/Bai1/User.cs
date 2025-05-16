@@ -23,28 +23,35 @@ namespace Bai1
         public static List<User> LoadUsers()
         {
             var users = new List<User>();
-            string filePath = Path.Combine(Application.StartupPath, "file.txt");
+            string filePath = Path.Combine(Application.StartupPath, "dulieu.txt");
             if (File.Exists(filePath))
             {
                 string[] lines = File.ReadAllLines(filePath);
                 foreach (var line in lines)
                 {
-                  
-                    var parts = line.Split(',');
+                    var parts = line.Split(';');
                     if (parts.Length == 4)
                     {
-                        users.Add(new User(parts[0], parts[1], parts[2], parts[3]));
+                        users.Add(new User(
+                            parts[0].Trim(),
+                            parts[1].Trim(),
+                            parts[2].Trim(),
+                            parts[3].Trim()
+                        ));
                     }
                 }
             }
             return users;
         }
+
         public static void AddUser(User user)
         {
-            string filePath = Path.Combine(Application.StartupPath, "file.txt");
-            string line = $"{user.Id},{user.Name},{user.birthDay},{user.Email}";
+            string filePath = Path.Combine(Application.StartupPath, "dulieu.txt");
+            string line = $"{user.Id};{user.Name};{user.birthDay};{user.Email}";
             File.AppendAllText(filePath, line + Environment.NewLine);
         }
+
+
 
     }
 }
