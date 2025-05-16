@@ -1,0 +1,155 @@
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\giua ki.exe.config
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\giua ki.exe
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\giua ki.pdb
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Memory.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Memory.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.exe.config
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua_ki.Login.resources
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua_ki.Properties.Resources.resources
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua_ki.Register.resources
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.csproj.Up2Date
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.exe
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua ki.pdb
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua_ki.Checking.resources
+C:\Users\Administrator\source\repos\giua ki\giua ki\obj\Debug\giua_ki.Deposit.resources
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\giua ki.exe.config
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\giua ki.exe
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\giua ki.pdb
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.exe.config
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua_ki.Checking.resources
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua_ki.Deposit.resources
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua_ki.Login.resources
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua_ki.Properties.Resources.resources
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua_ki.Register.resources
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.csproj.Up2Date
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.exe
+C:\Users\Administrator\Downloads\GiuaKy-abc\giua ki\giua ki\obj\Debug\giua ki.pdb
